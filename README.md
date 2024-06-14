@@ -5,6 +5,13 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zharrow&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zharrow&layout=compact&theme=dark)
 
+### 📌 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=PHP_Generate_CV)](https://github.com/zharrow/PHP_Generate_CV)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=voluxyy&repo=e-commerce)](https://github.com/voluxyy/e-commerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=Shifumi)](https://github.com/zharrow/Shifumi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=SamuraiFigther)](https://github.com/zharrow/SamuraiFigther)
+
 
 ## About Me
 
