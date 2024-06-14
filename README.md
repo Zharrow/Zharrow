@@ -7,18 +7,18 @@
 
 ### 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=PHP_Generate_CV)](https://github.com/zharrow/PHP_Generate_CV)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=voluxyy&repo=e-commerce)](https://github.com/voluxyy/e-commerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=e-commerce)](https://github.com/zharrow/e-commerce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=Shifumi)](https://github.com/zharrow/Shifumi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=SamuraiFigther)](https://github.com/zharrow/SamuraiFigther)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=PHP_Generate_CV)](https://github.com/zharrow/PHP_Generate_CV)
 
 
-## About Me
+## ⚡ About Me
 
 - 🔭 I’m currently working on [Samurai Fighter](https://github.com/zharrow/SamuraiFigther)
 - 🌱 I’m currently learning **Unity**
 - 📫 How to reach me: **[E-Mail](mailto:florent.detres@protonmail.com)**
-- ⚡ Fun fact: **Gym Addict 💪**
+- 💪 Fun fact: **Gym Addict**
 
 ## 🔧 My Skills
 
