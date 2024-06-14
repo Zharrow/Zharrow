@@ -1,8 +1,10 @@
-# Hello, I am Florent 👋
+**Hello, I am Florent 👋**
 
-![Profile Views](https://komarev.com/ghpvc/?username=zharrow&color=yellow)
+## 📈 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=zharrow&color=yellow)<br>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zharrow&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zharrow&layout=compact&theme=dark)
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBvZTNjdGllaGY0eHlmaW9raHpkNnBvNjM3ZW9sZGpydWs3YnoydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqW9dLVjQm3cs/giphy.gif" width="500" height="360" />
 
 ## About Me
 
@@ -52,13 +54,8 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)<br><br>
   
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zharrow&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zharrow&layout=compact&theme=dark)
-
-## 💼 Projects
+## 💼 Recent Projects
 
 ### [E-Commerce](https://github.com/voluxyy/e-commerce)
 Development of a web application with a Back-end API in C# .NET and a Front-end with Angular<br>
@@ -72,13 +69,11 @@ Development of a website allowing CV generation<br>
 
 ## 🎮 Fun & Hobbies
 
-- 🎧 Music: I love listening to EDM and classical music
-- 🎮 Gaming: Passionate about RPGs and strategy games
-- 📚 Reading: Avid reader of sci-fi and fantasy novels
+- 🎧 Music: I love listening Spotify Playlists
+- 🎮 Gaming: Passionate about MMORPG
+- 📚 Reading: Avid reader 
 
 ## 📫 Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestudioflow/)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/zharrow)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zharrow)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zharrow)
