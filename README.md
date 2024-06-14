@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zharrow&color=yellow)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBvZTNjdGllaGY0eHlmaW9raHpkNnBvNjM3ZW9sZGpydWs3YnoydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqW9dLVjQm3cs/giphy.gif" width="500" height="360" />
 
 ## About Me
 
