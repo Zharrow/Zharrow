@@ -1,7 +1,7 @@
 **Hello, I am Florent 👋**
 
-## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=zharrow&color=orange)<br>
+## 📈 GitHub Stats &nbsp;&nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=zharrow&color=blueviolet)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zharrow&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=cobalt)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zharrow&layout=compact&theme=cobalt)
 
