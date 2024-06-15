@@ -1,17 +1,17 @@
 **Hello, I am Florent 👋**
 
 ## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=zharrow&color=yellow)<br>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zharrow&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=cobalt)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zharrow&layout=compact&theme=cobalt)
+![Profile Views](https://komarev.com/ghpvc/?username=zharrow&color=orange)<br>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zharrow&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zharrow&layout=compact&theme=onedark)
 
 
 ### 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=e-commerce&theme=radical)](https://github.com/zharrow/e-commerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=e-commerce&theme=onedark)](https://github.com/zharrow/e-commerce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=Shifumi&theme=onedark)](https://github.com/zharrow/Shifumi)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=SamuraiFigther&theme=gruvbox)](https://github.com/zharrow/SamuraiFigther)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=PHP_Generate_CV&theme=tokyonight)](https://github.com/zharrow/PHP_Generate_CV)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=SamuraiFigther&theme=onedark)](https://github.com/zharrow/SamuraiFigther)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=PHP_Generate_CV&theme=onedark)](https://github.com/zharrow/PHP_Generate_CV)
 
 
 ## ⚡ About Me
