@@ -13,8 +13,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=SamuraiFigther&theme=white)](https://github.com/zharrow/SamuraiFigther)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zharrow&repo=Generate_CV&theme=white)](https://github.com/zharrow/Generate_CV)
 
-hh
-
 
 ## ⚡ About Me
 
